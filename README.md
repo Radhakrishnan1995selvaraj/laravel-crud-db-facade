@@ -3,6 +3,8 @@ simple crud operation
 
 download zip
 
-insert database sql 
+insert database sql  in xamp server
+
+
 
 
